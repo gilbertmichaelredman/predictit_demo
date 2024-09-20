@@ -14,7 +14,7 @@ This project is an ETL pipeline implemented using Apache Airflow that scrapes da
 
 ## Setup Instructions
 
-1. **Clone the repository**: `git clone https://github.com/your-repo/predictit-airflow-dag.git`
+1. **Clone the repository**: `git clone https://github.com/gilbertmichaelredman/predictit_demo.git`
 2. **Configure AWS Credentials**: Ensure you have access to an AWS account and configure your credentials using the AWS CLI.
 3. **Install dependencies**: `pip install -r requirements.txt`
 4. **Run Airflow DAG**:
